@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Kunal Dalvi</h1>
 <h3 align="center">A passionate data analysis enthusiast, dedicated to unraveling insights from complex datasets through statistical methods and programming.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279">
