@@ -21,4 +21,4 @@
 <h3 align="left">Languages and Tools:</h3> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kunal9960&theme=tokyonight-duo&border_radius=5" alt="GitHub Streak" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal9960&" alt="kunal9960" /></p>
