@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working on a **To-do List App**
 
-- 🌱 I’m currently learning **Advance Python**
-
-- 📝 I regularly upload what I code on **[Twitter](https://twitter.com/kunalfr_)**
+- 🌱 I’m currently learning **Azure fundamentals**
 
 - 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/kunal-d-0b273b2b4/)**
 
