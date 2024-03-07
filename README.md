@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal9960&label=Profile%20views&color=0e75b6&style=flat" alt="kunal9960" /> </p>
 
-- 🔭 I’m currently working on a **To-do List App**
+- 🔭 I’m currently working on my **Portfolio Website**
 
 - 🌱 I’m currently learning **Azure fundamentals**
 
