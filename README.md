@@ -16,6 +16,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
 </p>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kunal9960&theme=tokyonight" alt="GitHub Streak"/></a>
