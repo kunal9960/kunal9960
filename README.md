@@ -18,6 +18,6 @@
 <h3 align="left">Languages and Tools:</h3> 
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff&style=flat-square)
 </p>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kunal9960&theme=tokyonight" alt="GitHub Streak"/></a>
