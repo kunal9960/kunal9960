@@ -5,6 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279">
 
 <br>
+
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal9960&label=Profile%20views&color=0e75b6&style=flat" alt="kunal9960" /> </p>
@@ -49,4 +50,7 @@
 
 <br>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kunal9960&theme=tokyonight" alt="GitHub Streak"/></a><br>
+<h3 align="left">My Github Stats:</h3> 
+
+<a href="https://git.io/streak-stats" align="center"><img src="https://streak-stats.demolab.com?user=kunal9960&theme=tokyonight" alt="GitHub Streak"/></a>
+<a href="https://github.com/kunal9960"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal9960&layout=compact&theme=tokyonight" alt="Top Languages"/></a>
