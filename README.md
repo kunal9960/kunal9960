@@ -54,4 +54,3 @@
 <h3 align="left">Github Stats:</h3> 
 
 <a href="https://git.io/streak-stats" align="center"><img src="https://streak-stats.demolab.com?user=kunal9960&theme=tokyonight" alt="GitHub Streak"/></a>
-<a href="https://github.com/kunal9960"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal9960&layout=compact&theme=tokyonight" alt="Top Languages"/></a>
