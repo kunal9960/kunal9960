@@ -20,7 +20,7 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-dalvi-0b273b2b4)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunald9960@gmail.com)
@@ -30,7 +30,7 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3> 
+<h3 align="left">🛠️ Languages and Tools:</h3> 
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
@@ -65,7 +65,7 @@
 
 <br>
 
-<h3 align="left">Github Stats:</h3> 
+<h3 align="left">📑 Github Stats:</h3> 
 
 <a href="https://git.io/streak-stats" align="center"><img src="https://streak-stats.demolab.com?user=kunal9960&theme=tokyonight" alt="GitHub Streak"/></a>
 <img align="right" alt="Coding" src="./gh.gif">
