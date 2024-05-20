@@ -67,5 +67,7 @@
 
 <h3 align="left">📑 Github Stats:</h3> 
 
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunal9960&theme=material-palenight&custom_title=Kunal's%20Contribution%20Graph&hide_border=true)
+
 <a href="https://git.io/streak-stats" align="center"><img src="https://streak-stats.demolab.com?user=kunal9960&theme=tokyonight" alt="GitHub Streak"/></a>
 <img align="right" alt="Coding" src="./gh.gif">
