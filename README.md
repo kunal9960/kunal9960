@@ -10,13 +10,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal9960&label=Profile%20views&color=0e75b6&style=flat" alt="kunal9960" /> </p>
 
-- 🔭 I’m currently working on a **Motion Detection App**
+- 🔭 I’m currently working on an automated **Workflow for datasheets**
 
 - 🌱 I’m currently learning **Flask and Django**
 
-- 💼 All my projects are available on this **[Portfolio Website](https://portfolio-kunal.streamlit.app/)**
+- 💼 All my projects are available on this **[Portfolio Website](https://kunal-portfolio-js.netlify.app/)**
 
-- 🚀 I update my **[Twitter](https://twitter.com/kunalfr_)** with what I code daily!
+- ☕ Keey calm and enjoy coding
 
 <br>
 
