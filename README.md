@@ -1,7 +1,7 @@
 <p align="center">
     <img src="./Banner.png" alt="Header" width="65%">
 </p>
-<h3 align="center">I'm a Python developer who loves playing with data. I enjoy using Python to analyze datasets and uncover interesting insights. From cleaning data to visualizing trends, I'm passionate about every aspect of the data analysis process. Let's work together to make sense with numbers!</h3>
+<h3 align="center">A Python developer who loves playing with data. I enjoy using Python to analyze datasets and uncover interesting insights. From cleaning data to visualizing trends, I'm passionate about every aspect of the data analysis process. Let's work together to make sense with numbers!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279">
 
 <br>
