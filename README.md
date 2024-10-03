@@ -31,6 +31,19 @@
 
 <br>
 
+<h3 align="left">🏆 GSSoC'2024 Badges:</h3> 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img src="https://private-user-images.githubusercontent.com/67356946/355788095-b0a663ed-ebd6-476b-8d10-676be728beeb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc5Mzk4NjEsIm5iZiI6MTcyNzkzOTU2MSwicGF0aCI6Ii82NzM1Njk0Ni8zNTU3ODgwOTUtYjBhNjYzZWQtZWJkNi00NzZiLThkMTAtNjc2YmU3MjhiZWViLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDAzVDA3MTI0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc0ZTliNzliMDFiYWQ4ZmU0NDRlOTgwZmRlYWFlNWE4NmJjNzIxMDFkYzY0OTU1YWVkOTJiNGJmY2FmYTA1ZjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8tWINQswehtTxc-nL4ItFQxRO5ZOGuunP3LSbSqN7Yc" width="100px" height="100px"/>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/30715153/334789435-f3045ade-446f-46d8-a730-05f9f2ca9ecf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T070908Z&X-Amz-Expires=300&X-Amz-Signature=747f7d3cc6dff9cedd4df97d2ab28753df984e1aaeed8e692a6b4d4aa4916815&X-Amz-SignedHeaders=host" width="100px" height="100px"/>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/30715153/334807053-9666dc59-e8d8-4273-b110-ce4f26e2f3b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T070941Z&X-Amz-Expires=300&X-Amz-Signature=a3ecacd63eff562c087429a4bb819df04008980b0ac2d79da2f3e89a41ab9d50&X-Amz-SignedHeaders=host" width="100px" height="100px"/>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/30715153/334808148-74e579a0-a2b4-4010-9c8c-271a51cc441d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T071039Z&X-Amz-Expires=300&X-Amz-Signature=069fcbe190db3173a9674df2dc7f1d8e74fd8afdd66d08473c15954ba9a9bad6&X-Amz-SignedHeaders=host" width="100px" height="100px"/>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/30715153/334809938-93a7cce8-595b-4c65-83fb-c3e92241f0ff.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T071053Z&X-Amz-Expires=300&X-Amz-Signature=3aade7bb8199357ebfb7ea33e5e877fc4b721c7d186348f5170b1b854384d8c9&X-Amz-SignedHeaders=host" width="100px" height="100px"/>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/30715153/334811008-2274e5cd-fb05-43fc-a939-3e18ca881c1b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T071105Z&X-Amz-Expires=300&X-Amz-Signature=52288a545fed35580384c47081b5e328e7ccec2ff5cba71794e44a97c24845dc&X-Amz-SignedHeaders=host" width="100px" height="100px"/>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/30715153/334811676-3ca70186-0e49-442b-85b2-061d819cfd8e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T071115Z&X-Amz-Expires=300&X-Amz-Signature=825270c72575bee7a6601c137ab5b79e9e89966a383871058e8b680008e6631e&X-Amz-SignedHeaders=host" width="105px" height="105px"/>
+</div>
+
+<br>
+
 <h3 align="left">🛠️ Languages and Tools:</h3> 
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
