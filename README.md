@@ -5,8 +5,6 @@
 
 - 💼 All my projects are available on this **[Portfolio Website](https://kunal-portfolio-js.netlify.app/)**
 
-- 🔭 I daily practice on [![LeetCode user kunaldfr](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkunaldfr&logo=leetcode&logoColor=yellow)](https://leetcode.com/kunaldfr/)
-
 *"Sometimes the greatest dishes come from the most unlikely ingredients"* - Po
 
 <br>
