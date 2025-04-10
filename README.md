@@ -57,7 +57,7 @@
 
 ---
 
-<h3 align="left">📑 Github Stats:</h3> 
+<h3 align="left">📝 Github Stats:</h3> 
 
 <a href="https://git.io/streak-stats" align="center"><img src="https://streak-stats.demolab.com?user=kunal9960&theme=tokyonight" alt="GitHub Streak"/></a>
 <img align="right" alt="Coding" src="./gh.gif">
